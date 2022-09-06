@@ -1,5 +1,5 @@
 <!-- Banner -->
-### Hi, I'm Leif 👋
+<img align="center" src="https://github.com/leif-mw/leif-mw/blob/423d175265639affed9b7dae07e12c73dc51d418/header.png" alt="Hi, I'm Leif" />
 
 <!-- Badges -->
 <p align='center'>
