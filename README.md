@@ -28,7 +28,7 @@ Welcome to my profile! I'm an undergraduate Computer Science and Philosophy stud
 
 📧 Contact:
 ---
-Feel free to contact me at leif.martens-wallace@mail.mcgill.ca for any inquiries.
+Contact me at leif.martens-wallace@mail.mcgill.ca for any inquiries.
 
 📚 My main interests are:
 ---
