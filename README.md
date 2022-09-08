@@ -24,7 +24,7 @@
 
 👤 About me:
 ---
-Welcome to my profile! I'm an undergraduate Computer Science and Philosophy student at McGill University, originally from New York! In my spare time, I enjoy researching esoteric philosophical/mathematical topics, writing, and playing fighting games. I speak English fluently, French semi-fluently, and I'm currently learning Japanese and German. Don't be afraid to reach out if we share any common interests!
+I'm an undergraduate Computer Science and Philosophy student at McGill University, originally from New York! In my spare time, I enjoy researching a wide variety of esoteric philosophical/mathematical topics, writing, and playing fighting games. I speak English fluently, French semi-fluently, and I'm currently studying Japanese and German. Don't be afraid to reach out if we share any common interests!
 
 📧 Contact:
 ---
