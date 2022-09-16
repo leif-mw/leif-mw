@@ -30,7 +30,7 @@ I'm an undergraduate Computer Science and Philosophy student at McGill Universit
 ---
 Contact me at leif.martens-wallace@mail.mcgill.ca for any inquiries.
 
-📚 My main interests are:
+💭 My main interests are:
 ---
 - Game development
 - AI and its philosophical implications
@@ -42,6 +42,13 @@ Contact me at leif.martens-wallace@mail.mcgill.ca for any inquiries.
 - Deep learning with PyTorch
 - Logic programming with OCaml
 - Computer graphics in OpenGL
+
+📚 The courses I'm currently taking are:
+---
+- COMP 557 Fundamentals of Computer Graphics
+- COMP 330 Theory of Computation
+- PHIL 360 17th Century Philosophy
+- PHIL 311 Philosophy of Mathematics
 
 📊 Stats:
 ---
