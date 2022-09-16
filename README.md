@@ -43,7 +43,7 @@ Contact me at leif.martens-wallace@mail.mcgill.ca for any inquiries.
 - Logic programming with OCaml
 - Computer graphics in OpenGL
 
-📚 The courses I'm currently taking are:
+📚 My current courses are:
 ---
 - COMP 557 Fundamentals of Computer Graphics
 - COMP 330 Theory of Computation
