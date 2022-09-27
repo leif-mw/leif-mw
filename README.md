@@ -33,12 +33,12 @@ Contact me at leif.martens-wallace@mail.mcgill.ca for any inquiries.
 💭 My main interests are:
 ---
 - Game development
-- AI and its philosophical implications
-- Formal systems
+- The philosophical implications of AI and ML applications in software
+- Formal systems and their history
 
 🌱 I'm currently learning:
 ---
-- Game development in Unreal Engine
+- Machine learning with JAX
 - Deep learning with PyTorch
 - Logic programming with OCaml
 - Computer graphics in OpenGL
@@ -49,6 +49,7 @@ Contact me at leif.martens-wallace@mail.mcgill.ca for any inquiries.
 - COMP 330 Theory of Computation
 - PHIL 360 17th Century Philosophy
 - PHIL 311 Philosophy of Mathematics
+- MAIS 202 Accelerated Introduction to Machine Learning
 
 📊 Stats:
 ---
