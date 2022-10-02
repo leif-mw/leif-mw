@@ -22,7 +22,7 @@
   
 </p>
 
-👤 About me:
+👤 About:
 ---
 I'm an undergraduate Computer Science and Philosophy student at McGill University, originally from New York. In my spare time, I enjoy researching a wide variety of (often) esoteric philosophical/mathematical topics, writing/world building, playing fighting games, and drawing. I speak English fluently, French semi-fluently, and I'm currently studying Japanese and German!
 
@@ -30,20 +30,20 @@ I'm an undergraduate Computer Science and Philosophy student at McGill Universit
 ---
 Contact me at leif.martens-wallace@mail.mcgill.ca for any inquiries.
 
-💭 My main interests are:
+💭 Main interests:
 ---
 - Game development
 - The philosophical implications of AI and ML applications in software
 - Formal systems and their history
 
-🌱 I'm currently learning:
+🌱 Currently learning:
 ---
 - Machine learning with JAX
 - Deep learning with PyTorch
 - Logic programming with OCaml
 - Computer graphics in OpenGL
 
-📚 My current courses are:
+📚 Current courses:
 ---
 - COMP 557 Fundamentals of Computer Graphics
 - COMP 330 Theory of Computation
