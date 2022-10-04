@@ -41,7 +41,7 @@ Contact me at leif.martens-wallace@mail.mcgill.ca for any inquiries.
 - Machine learning with JAX
 - Deep learning with PyTorch
 - Logic programming with OCaml
-- Computer graphics in OpenGL
+- Computer graphics with OpenGL
 
 📚 Current courses:
 ---
